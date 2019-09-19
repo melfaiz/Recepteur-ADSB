@@ -11,7 +11,7 @@ Tous les fichiers utiles à ce projet sont disponibles aux adresses suivantes :
 
 * [Des messages ADSB](https://thor.enseirb-matmeca.fr/ruby/submissions/2076/download/127286e770a32ee45991d65a0c86b87f246149abd85f10f805b654bec27cbddc)
 
-* [Une documentation technique](https://thor.enseirb-matmeca.fr/ruby/submissions/2077/download/326c5324ffb1f58b86481b5ece787d3f2fd61b3e07d2a663b02f6312e0647c57)
+* [Une documentation technique sur ADSB](https://thor.enseirb-matmeca.fr/ruby/submissions/2077/download/326c5324ffb1f58b86481b5ece787d3f2fd61b3e07d2a663b02f6312e0647c57) (concerne surtout les tâches annexes)
 
 **Ne pas mettre les données sur votre dépôt Git !**
 
