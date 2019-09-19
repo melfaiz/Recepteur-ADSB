@@ -22,7 +22,7 @@ Tous les fichiers utiles à ce projet sont disponibles aux adresses suivantes :
 ### Ce qui doit être fait lors de votre première séance
 Lors de votre première séance, vous commencerez par **cloner** votre répertoire avec la commande suivante
 
-```(bash)
+```
 git clone https://<user>@thor.enseirb-matmeca.fr/git/<repo>
 ```
 
@@ -30,14 +30,16 @@ où `<user>` et `<repo>` sont vos login et le nom de votre dépôt Git (cf. votr
 
 **Immédiatement après avoir cloné** votre dépôt Git, mettre à jour votre fichier de configuration Git
 
-``` ssh ssh.enseirb-matmeca.fr /net/ens/renault/local/bin/init-gitconfig.sh > ~/.gitconfig
+``` 
+ssh ssh.enseirb-matmeca.fr /net/ens/renault/local/bin/init-gitconfig.sh > ~/.gitconfig
 ```
 
 ### Ce qui doit être fait lors à chaque séance
 
 **Pousser** votre travail sur le serveur distant au **minimum à la fin de chaque séance** 
 
-``` git push origin master
+``` 
+git push origin master
 ```
 
 Chaque commit devra **impérativement** comporter un message informatif (git commit). Voir [ce tutoriel](https://chris.beams.io/posts/git-commit/) pour un guide de bonnes pratiques concernant les commits.
