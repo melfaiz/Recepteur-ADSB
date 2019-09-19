@@ -22,7 +22,8 @@ Tous les fichiers utiles à ce projet sont disponibles aux adresses suivantes :
 ### Ce qui doit être fait lors de votre première séance
 Lors de votre première séance, vous commencerez par **cloner** votre répertoire avec la commande suivante
 
-``` git clone https://<user>@thor.enseirb-matmeca.fr/git/<repo>
+``` 
+git clone https://<user>@thor.enseirb-matmeca.fr/git/<repo>
 ```
 
 où `<user>` et `<repo>` sont vos login et le nom de votre dépôt Git (cf. votre compte sur Thor)
