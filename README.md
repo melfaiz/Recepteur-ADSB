@@ -22,7 +22,7 @@ Tous les fichiers utiles à ce projet sont disponibles aux adresses suivantes :
 ### Ce qui doit être fait lors de votre première séance
 Lors de votre première séance, vous commencerez par **cloner** votre répertoire avec la commande suivante
 
-``` 
+```(bash)
 git clone https://<user>@thor.enseirb-matmeca.fr/git/<repo>
 ```
 
