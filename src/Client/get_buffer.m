@@ -1,8 +1,4 @@
 function buffer = get_buffer(SERVER_ADDRESS)
-% JAVA init
-import java.net.*;
-import java.io.*;
-javaaddpath('./Client/javaDataReader');
 
 %% Constants definition
 PORT = 8080;

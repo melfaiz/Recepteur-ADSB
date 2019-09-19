@@ -3,6 +3,11 @@
 clc
 clear
 close all
+% JAVA init
+
+import java.net.*;
+import java.io.*;
+javaaddpath('./Client/javaDataReader');
 
 addpath('Client', 'General', 'MAC', 'PHY');
 %% Constants definition
