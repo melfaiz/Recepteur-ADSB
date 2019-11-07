@@ -3,4 +3,3 @@ function [liste_new_registre, corrVal] = process_buffer(cplxBuffer, REF_LON, REF
 % -> bits2registre(bitPacketCRC,refLon,refLat) :    couche MAC
     [liste_new_registre, corrVal] = process_buffer_(cplxBuffer, REF_LON, REF_LAT,seuilDetection, Fse);
 end
-
